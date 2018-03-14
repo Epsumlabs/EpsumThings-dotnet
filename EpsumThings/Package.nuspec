@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>EpsumThings</id>
-    <version>1.0.0</version>
+    <version>0.0.1-beta</version>
     <authors>Epsum Labs Private Limited</authors>
     <owners>Epsum Labs Private Limited</owners>
     <licenseUrl>https://github.com/Epsumlabs/EpsumThings-dotnet.git</licenseUrl>
     <projectUrl>https://github.com/Epsumlabs/EpsumThings-dotnet.git</projectUrl>
-    <iconUrl>https://epsumlabs.com/assets/img/logo/epsm.png</iconUrl>
+    <iconUrl>https://epsumlabs.com/assets/img/logo/logo_bg.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>EpsumThings DotNet SDK for developers and hobbyists alike for using EpsumThings IoT platform.</description>
     <releaseNotes>EpsumThings (Beta) is an IoT platform developed at Epsum Labs Private Limited for people like you to taste the sweetness of IoT with minimal effort.</releaseNotes>

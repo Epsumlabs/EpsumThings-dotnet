@@ -1,0 +1,7 @@
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\bin\Debug\EpsumThings.dll
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\bin\Debug\EpsumThings.pdb
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\obj\Debug\EpsumThings.csprojResolveAssemblyReference.cache
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\obj\Debug\EpsumThings.dll
+C:\Users\Epsum Labs\documents\visual studio 2013\Projects\EpsumThings\EpsumThings\obj\Debug\EpsumThings.pdb

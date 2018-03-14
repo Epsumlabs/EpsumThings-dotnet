@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EpsumThings</id>
+    <version>1.0.0</version>
+    <authors>Epsum Labs Private Limited</authors>
+    <owners>Epsum Labs Private Limited</owners>
+    <licenseUrl>https://github.com/Epsumlabs/EpsumThings-dotnet.git</licenseUrl>
+    <projectUrl>https://github.com/Epsumlabs/EpsumThings-dotnet.git</projectUrl>
+    <iconUrl>https://epsumlabs.com/assets/img/logo/epsm.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>EpsumThings DotNet SDK for developers and hobbyists alike for using EpsumThings IoT platform.</description>
+    <releaseNotes>EpsumThings (Beta) is an IoT platform developed at Epsum Labs Private Limited for people like you to taste the sweetness of IoT with minimal effort.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>epsumthings iot</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="9.0.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Epsumthings\bin\Debug\EpsumThings.dll" target="lib"/>
+  </files>
+</package>
